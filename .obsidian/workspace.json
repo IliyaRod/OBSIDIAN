@@ -1,34 +1,18 @@
 {
   "main": {
-    "id": "9c953efc9da83fca",
+    "id": "f29790811ce855e1",
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "35fa34f0f909ca51",
+        "id": "cef08acc941d1743",
         "type": "tabs",
         "children": [
           {
-            "id": "4a631dfa36360069",
+            "id": "fba896e59c9aae98",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
-=======
-        "id": "2566686eb2bb1b9c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "440c860e43689818",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Переклади/Встановлення Arch linux.md",
-                "mode": "source",
-                "source": false
-              }
->>>>>>> Stashed changes
             }
           }
         ]
@@ -37,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e56b59dfd96ee305",
+    "id": "15df6ac781a3d5b2",
     "type": "split",
     "children": [
       {
-        "id": "726dfcd67818a6f0",
+        "id": "0fe99752e10ce2b7",
         "type": "tabs",
         "children": [
           {
-            "id": "102200acb1c46d17",
+            "id": "dd9f0f4ce82d05ef",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +39,7 @@
             }
           },
           {
-            "id": "08ecdbeed857406e",
+            "id": "acf20777f5018cb3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +54,7 @@
             }
           },
           {
-            "id": "6582579837955d7f",
+            "id": "87f381d753db5bc0",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -84,25 +68,20 @@
     "width": 300
   },
   "right": {
-    "id": "f7e89a9bb2d348e7",
+    "id": "0b61a848aaed10d1",
     "type": "split",
     "children": [
       {
-        "id": "a3d683dfbb5fb78c",
+        "id": "2afca4b9e0b0ab83",
         "type": "tabs",
         "children": [
           {
-            "id": "0acfb9f17c951944",
+            "id": "da2a532a87064498",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
                 "collapseAll": false,
-=======
-                "file": "Переклади/Встановлення Arch linux.md",
-                "collapseAll": true,
->>>>>>> Stashed changes
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -113,23 +92,18 @@
             }
           },
           {
-            "id": "e89abe177018d8f9",
+            "id": "43661e414e8fba3a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
                 "linksCollapsed": false,
-=======
-                "file": "Переклади/Встановлення Arch linux.md",
-                "linksCollapsed": true,
->>>>>>> Stashed changes
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "41a9fb402c587410",
+            "id": "3b522358ecf2686a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,23 +114,10 @@
             }
           },
           {
-            "id": "885f20ba43413f93",
+            "id": "07daffa6d114d52a",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< Updated upstream
-=======
-              "state": {
-                "file": "Переклади/Встановлення Arch linux.md"
-              }
-            }
-          },
-          {
-            "id": "6c92150696459886",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
->>>>>>> Stashed changes
               "state": {}
             }
           }
@@ -169,30 +130,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню швидкого переходу": false,
-      "graph:Граф": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Сьогоднішня нотатка": false,
-      "templates:Вставити шаблон": false,
-      "command-palette:Відкрити палітру команд": false
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "4a631dfa36360069",
+  "active": "fba896e59c9aae98",
   "lastOpenFiles": []
-=======
-  "active": "440c860e43689818",
-  "lastOpenFiles": [
-    "Переклади/Оригінал з Arch wiki.md",
-    "Переклади/Встановлення Arch linux.md",
-    "канали чату Arch Linux.md",
-    "Переклади/Загальні рекомендації.md",
-    "НМТ історія/Україна в період загострення кризи радянської системи.md",
-    "НМТ історія/Тема 1 Перша світова війна.md",
-    "НМТ історія/Відновлення незалежності України (Перебудова).md",
-    "Назва нотатки.md",
-    "Розмітка.md",
-    "Без назви.canvas"
-  ]
->>>>>>> Stashed changes
 }
