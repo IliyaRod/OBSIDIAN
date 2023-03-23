@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 [
   "table-editor-obsidian",
   "obsidian-git",
   "quick-latex"
+=======
+[
+  "table-editor-obsidian",
+  "obsidian-git",
+  "obsidian-style-settings",
+  "calendar"
+>>>>>>> d5da8a24b53813107412c188663d0cd415b6b29e
 ]
